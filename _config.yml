@@ -1,0 +1,14 @@
+markdown: rdiscount
+pygments: true
+permalink: date
+google_analytics_code: UA-92810-1
+url: http://ascarter.net
+exclude:
+- config.ru
+- Gemfile
+- Gemfile.lock
+- Rakefile
+- README.markdown
+- bin
+- public
+- vendor
