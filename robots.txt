@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /andrew_carter_resume.pdf
-Allow: /
-
