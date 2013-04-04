@@ -44,6 +44,7 @@ nav .menu {
 }
 nav .menu:hover{
 	color: #145D85!important;
+	border-bottom: none;
 }
 /*--------------------------------------------------------------
  Site defaults
