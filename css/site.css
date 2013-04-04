@@ -47,7 +47,7 @@ a {
 }
 
 a:hover {
-	color: #05486b000;
+	color: #7a6a53;
 	font: bold;
 }
 
@@ -168,7 +168,7 @@ footer {
 footer a,
 footer a:link,
 footer a:visited {
-	color: #547980;
+	color: #7a6a53;
 }
 
 footer #copyright {
@@ -177,7 +177,7 @@ footer #copyright {
 }
 
 footer #copyright a {
-	color: #547980;
+	color: #7a6a53;
 }
 
 /*--------------------------------------------------------------
