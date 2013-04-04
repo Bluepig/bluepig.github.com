@@ -135,7 +135,7 @@ nav {
 }
 
 nav a:hover {
-    background: #69d2e7;
+    color: #05486b;
 }
 
 nav .menu {
@@ -186,7 +186,8 @@ footer #copyright a {
 
 article {
     padding: 1.0em 0.0em 1.0em 0.0em;
-	border-bottom: 1px solid #ddd;
+	border-bottom: 1px solid #7a6a53;
+	color: #05486b;
 }
 
 article pre {
@@ -286,6 +287,7 @@ header .dateline {
 header h1 {
     margin: 0;
     padding: 1em 0 0.5em 0;
+    color:#05486b;
 }
 
 /*--------------------------------------------------------------
