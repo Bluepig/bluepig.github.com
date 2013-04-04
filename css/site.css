@@ -106,12 +106,12 @@ pre {
 #masthead {
 	font-size: 1.0em;
 	margin-left: 0.2em;
-	color: #d0e0eb;
+	color: #88abc2;
 }
 
 #masthead a:link,
 #masthead a:visited {
-	color: #d0e0eb;
+	color: #88abc2;
 }
 
 #masthead h1 {
@@ -129,13 +129,13 @@ pre {
  --------------------------------------------------------------*/
 nav {
     padding: 0.5em;
-	border-bottom: 1px solid #d0e0eb;
-	border-top: 1px solid #d0e0eb;
+	border-bottom: 1px solid #88abc2;
+	border-top: 1px solid #88abc2;
 	font-size: 1.55em;
 }
 
 nav a:hover {
-    color: #d0e0eb;
+    color: #88abc2;
 }
 
 nav .menu {
