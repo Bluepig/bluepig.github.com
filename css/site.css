@@ -136,23 +136,22 @@ pre {
 #masthead a:visited {
 	color: #88abc2;
 }
-#masthead a:hover{
-	border: none;
-}
 
 #masthead h1 {
 	color: #A80000;
 	font-size: 2.3em;
 }
 
-#masthead h1 a:link,
-#masthead h1 a:visited {
+#masthead h1 a:link{
 	color: #A80000;
 }
+
 #masthead h1 a:hover{
 	border-bottom: none;
 }
-
+#masthead h1 a:visited {
+	color: #A80000;
+}
 
 
 /*--------------------------------------------------------------
