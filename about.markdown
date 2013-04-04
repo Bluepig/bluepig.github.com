@@ -3,7 +3,7 @@ layout: default
 title: about
 ---
 
-<span id="about-portrait"><img src="images/about-portrait.jpg" alt="Portrait of Andrew Carter" /></span>
+<span id="about-portrait"><img src="images/portrait.jpg" alt="Portrait of Bluepig" /></span>
 
 武大本科,ISSer.
 
