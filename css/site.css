@@ -48,8 +48,7 @@ a {
 
 a:hover {
 	font: bold;
-	color: #774f38;
-	/*border-bottom: 1px solid #26ADE4;*/
+	border-bottom: 1px solid #26ADE4;
 }
 
 a:visited {
@@ -125,6 +124,7 @@ pre {
 	color: #A80000;
 }
 
+
 /*--------------------------------------------------------------
  Navbar
  --------------------------------------------------------------*/
@@ -136,7 +136,7 @@ nav {
 }
 
 nav a:hover {
-    color: #88abc2;
+    color: #145D85;
 }
 
 nav .menu {
