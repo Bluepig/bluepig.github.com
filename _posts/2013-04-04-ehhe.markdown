@@ -7,5 +7,8 @@ date: '2013-04-04 02:52:19'
 操你妈
 
 
-cd /usr/local
+Here's the install for the ruby stack:
+
+	sudo apt-get install irb libopenssl-ruby libreadline-ruby rdoc ri ruby ruby-dev
+
 
