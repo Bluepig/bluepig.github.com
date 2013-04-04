@@ -42,11 +42,11 @@ nav a:hover {
 nav .menu {
     margin-right: 0.5em;
     padding: 0.5em;
-}/*
+}
 nav .menu:hover{
 	color: #145D85!important;
 	border-bottom: none;
-}*/
+}
 /*--------------------------------------------------------------
  Site defaults
  --------------------------------------------------------------*/
@@ -145,6 +145,9 @@ pre {
 #masthead h1 a:link,
 #masthead h1 a:visited {
 	color: #A80000;
+}
+#masthead h1 a:hover{
+	border-bottom: none;
 }
 
 
