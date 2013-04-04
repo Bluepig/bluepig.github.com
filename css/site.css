@@ -157,7 +157,7 @@ section {
 
 footer {
 	font-size: 0.91em;
-	color: darkgrey;
+	color: #0B486B;
 	overflow: hidden;
 	clear: both;
 	text-align: left;
@@ -168,16 +168,16 @@ footer {
 footer a,
 footer a:link,
 footer a:visited {
-	color: #aaa;
+	color: #69d2e7;
 }
 
 footer #copyright {
-	color: #aaa;
+	color: #69d2e7;
 	text-align: left;
 }
 
 footer #copyright a {
-	color: #aaa;
+	color: #69d2e7;
 }
 
 /*--------------------------------------------------------------
