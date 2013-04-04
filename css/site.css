@@ -227,6 +227,7 @@ article pre.code {
 }
 
 article pre code {
+	color:#05486b;
 	border: none;
 	font-weight: normal;
 }
