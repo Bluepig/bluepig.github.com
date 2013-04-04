@@ -64,14 +64,14 @@ h3 {
 }
 
 a {
-	color: #26ADE4;
+	color: #88abc2;
 	text-decoration: none;
 	font: normal;
 }
 
 a:hover {
 	font: bold;
-	color:#88abc2;
+	color: #26ADE4;
 }
 
 a:visited {
