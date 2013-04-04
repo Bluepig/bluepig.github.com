@@ -36,16 +36,17 @@ nav {
 
 nav a:hover {
     color: #145D85;
+    border-bottom: none;
 }
 
 nav .menu {
     margin-right: 0.5em;
     padding: 0.5em;
-}
+}/*
 nav .menu:hover{
 	color: #145D85!important;
 	border-bottom: none;
-}
+}*/
 /*--------------------------------------------------------------
  Site defaults
  --------------------------------------------------------------*/
