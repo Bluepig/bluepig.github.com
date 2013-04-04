@@ -47,8 +47,8 @@ a {
 }
 
 a:hover {
-	color: #145D85;
 	font: bold;
+	border-bottom: 1px solid #26ADE4;
 }
 
 a:visited {
