@@ -144,7 +144,7 @@ nav .menu {
     padding: 0.5em;
 }
 nav .menu:hover{
-	color: #145D85;
+	color: #145D85!important;
 }
 /*--------------------------------------------------------------
  Section
