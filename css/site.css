@@ -136,6 +136,9 @@ pre {
 #masthead a:visited {
 	color: #88abc2;
 }
+#masthead a:hover{
+	border: none;
+}
 
 #masthead h1 {
 	color: #A80000;
