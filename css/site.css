@@ -47,7 +47,7 @@ a {
 }
 
 a:hover {
-	color: #000000;
+	color: #05486b000;
 	font: bold;
 }
 
@@ -106,22 +106,22 @@ pre {
 #masthead {
 	font-size: 1.0em;
 	margin-left: 0.2em;
-	color: #000;
+	color: #05486b;
 }
 
 #masthead a:link,
 #masthead a:visited {
-	color: #000;
+	color: #05486b;
 }
 
 #masthead h1 {
-	color: #000;
+	color: #05486b;
 	font-size: 2.3em;
 }
 
 #masthead h1 a:link,
 #masthead h1 a:visited {
-	color: #000;
+	color: #05486b;
 }
 
 /*--------------------------------------------------------------
@@ -129,8 +129,8 @@ pre {
  --------------------------------------------------------------*/
 nav {
     padding: 0.5em;
-	border-bottom: 1px solid #000;
-	border-top: 1px solid #000;
+	border-bottom: 1px solid #05486b;
+	border-top: 1px solid #05486b;
 	font-size: 1.55em;
 }
 
@@ -157,7 +157,7 @@ section {
 
 footer {
 	font-size: 0.91em;
-	color: #000;
+	color: #05486b;
 	overflow: hidden;
 	clear: both;
 	text-align: left;
@@ -172,7 +172,7 @@ footer a:visited {
 }
 
 footer #copyright {
-	color: #000;
+	color: #05486b;
 	text-align: left;
 }
 
@@ -278,7 +278,7 @@ header {
 
 header .dateline {
 	font-size: 1.0em;
-	color: #000;
+	color: #05486b;
 	padding: 0em;
 	margin: 0;
 }
