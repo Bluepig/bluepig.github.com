@@ -2,7 +2,7 @@ markdown: rdiscount
 pygments: true
 permalink: date
 google_analytics_code: UA-92810-1
-url: http://bluepigod.tk
+url: http://bluepig.github.io
 exclude:
 - config.ru
 - Gemfile
