@@ -28,27 +28,28 @@ date: 2013-07-28 20:08:03
 ### 3. 怎么使用Rss?
 
 1. 选择一个靠谱的Rss阅读器。在Google于今年3月14日宣布关闭Google Reader之后，整个互联网上一片哀悼之声，就好像一个女神用了十几年备胎之后突然把备胎踹了说要结婚了一样，可见Google Reader在互联网史的地位。曾经沧海难为水，船到桥头自然直，总之找个新女神就好。
-<br />	
+
 Web端目前我用过的感觉不错的有两个:
     - [Feedly](http://feedly.com)
     - [美味爱读](http://www.readwise.net/)
-<br />
+
 
 
 Feedly是后Google Reader时代抢到了Rss阅读头把交椅的王者,截止到7月19日，已经有1200万的Google Reader迁移到了Feedly,Web端功能改日再写文章讲，对iPhone来说，只需要Feedly账号的订阅功能即可(深度用户可以无视我)，这个后面会讲到。
-<br />
+
 美味爱读是由开发了delicious的AVOS中国团队开发的一款标签化阅读器，当然我们这里也只需要它的RSS订阅功能= =！，相比于Feedly，由于是国人开发，服务器架在国内，它的载入速度更快，UI也更加Chinese-friendly,比较适合初用者使用。
-<br />
+
 鲜果联播什么的就不说了，我只是觉得这名字以及ICON太XX蠢了。。。。。
 
 2.  选择感兴趣的内容订阅。就像去超市买猪肉一样，推个车子走进猪肉区，里脊拿个袋子装，猪蹄拿个袋子装，五花肉拿个袋子装，最后一股脑扔到一个大袋子里带走。订阅也像这样，你只需要把订阅对象的feed.xml文件给扔到阅读器就行。拿新浪博客来说:
+
 ![picture1](../images/20130727/1.jpg)
-<br /><br />
+
 点击订阅按钮之后，会这样：
-<br /><br />
+
 ![picture2](../images/20130727/2.jpg)
 复制这个xml地址即可。
-<br />
+
 3. 对订阅的内容进行整理。可以放到不同文件夹中进行分类，加星标记重要，或者加标签进行筛选，这个后面会讲到。
 
 ### 4. 一些iPhone Rss应用横向对比
@@ -65,56 +66,60 @@ iPhone上RSS应用质量参差不齐，加上很多应用都是出自美国开�
 
 ###Feedly
 之前介绍过，Feedly是后谷歌时代RSS的王者应用，由于Feedly登陆调用了Google的API,只能使用Google账号进行登陆，所以还是省去了不少麻烦:)。除了能添加Rss和迁移Google Reader，它还添加了一项功能，即根据#topic订阅网站内容，当你选择了一定的TOPIC后，它会自动给你推荐一些博客或者是网站，你可以选择添加到自己的订阅源，这是传统的RSS阅读对抗新兴社会化阅读器如*flipboard*,*zaker*之类的一种探索吧，后面会提到的Digg,美味爱读也都添加了类似的功能。
-<br /><br />
+
 在iOS中的Feedly,是否像Web版那样给力呢？
 
 ![picture2](../images/20130727/3.png)
-<br />
+
 Feedly官方在介绍Feedly时用了3个词
 >Speed.Openness.Creativity.
 
 如上面左上角的图所示，Feedly在iOS7发布前数月，就采用了扁平多彩化标签的设计;在各个分类中，同Web端一样，支持list,card,magazine,title四种方式显示标题;并且支持包括下拉关闭，长按保存，双击关闭以及滑动切换in-app browser等多种手势;以及多种方式进行排列，Creativity体现地淋漓尽致并且诚意十足。
-<br /><br />
+
 功能上，如右上角图所示，支持同步到facebook,twitter,google+等社交网站以及instapaper和pocket等RIL应用，并且可以把2个最常用的分享方式固定到右上角;切换主题，改变字体大小类型，渐变以及默认显示方式方式均可任意设置。
-<br /><br />
+
 至于Openness，Feedly开放了自己的API，任意RSS应用均可导入Feedly账号的订阅源。
-<br /><br />
+
 **可是！！！！iOS客户端目测是被墙了。。。。这尼玛不是坑爹吗？摊手，当然翻墙无压力的可以无视，不过由于我刷完iOS7之后无法降级，开关VPN无比麻烦，所以不得不选择弃用，抱怨GFW什么的话不说了。国软国软，牛逼闪闪。**
-<br /><br />
+
 
 ###Digg Reader
 
 说到Digg就不得不提到它光辉的过去以及惨淡的如今，**Digg**是Digg类社交新闻网站的鼻祖，以下摘自wikipedia:
 >The site's main function is to let users discover, share and recommend web content. Members of the community can submit a webpage for general consideration. Other members can vote that page up ("digg") or down ("bury"). Although voting takes place on digg.com, many websites add "digg" buttons to their pages, allowing users to vote as they browse the web. The end product is a series of wide-ranging, constantly updated lists of popular and trending content from around the Internet, aggregated by a social network.
-<br /><br />
+
 
 简单说就是,首页的新闻内容由用户的’digg’数决定，使得网站内容完全由用户所掌控，如此不仅减少了人力成本，也使内容相对来讲更有价值，然而，随着用户数的增多，一些产品上的缺点也暴露出来，如：恶意刷榜，内容偏颇，普通用户权力过小以及对社交化的失败探索，导致这个曾经估值1.6亿美金的公司在2013年7月12日被50万美金贱卖，实在让人唏嘘。一个月前，Digg宣布要推出自己的Google Reader替代品**Digg Reader**,支持包括迁移Google Reader Feeds，订阅Feeds，分享至twitter,facebook,instapaper,pocket以及添加由Digg Editor精选的一些新闻的订阅。
-<br /><br />
+
 下面来看看Digg Reader for iOS吧：
 ![picture5](../images/20130727/5.png)
 
 由上面截图可以看出，Digg相比于Feedly繁杂而丰富的功能，是一款非常简洁而又不失优雅的阅读器。Digg支持用facebook,twitter以及google账号登陆，登陆后如右上角图片所示，热门报道内即[Digg](http://digg.com)首页的Top Stories,并且集成了digg的搜索功能，可以通过关键字搜索新闻并且进行*digg*操作，也可以对订阅源内的文章进行操作。添加操作可以添加Feeds以及Digg推荐的一些相关网站，这个跟Feedly推荐标签类似就不赘述了。重点是，加载速度很快，基本没有Feedly那种等的飘飘欲仙还刷不出来东西的感觉。支持基本手势，下拉刷新，上拉翻页等，右滑进行分享标记操作等。
-<br /><br />
+
 然而，简洁的设计随之而来的就是功能的缺失，Digg虽易用易读，然而功能硬伤不少，首先是app端不支持Feeds的分类和删除，= =，这尼玛。。。而且，当你导入Feeds时，它会自动导入当前网站的所有文章，并且没有read与unread的区分！！！！！这不就是优化版的SAFARI么有木有，建个收藏夹加上safari自带的阅读列表。作为Rss阅读器的重要特性基本一个都没有体现。当然，我们不能对一个开发不到2个月的app要求太多，相信digg reader的开发者在后面也会把缺失的功能给补上，毕竟这不是像Feedly被墙那样的大问题，还是值得期待的。
-<br /><br />
+
 **But now,Digg 扑街！！！**
 
 
 ###美味爱读 
 在前面介绍过美味爱读的Web端，放张截图：
+
 ![picture6](../images/20130727/6.png)
+
 支持微博，豆瓣,google,twitter登陆，加载速度很快，订阅类似于Digg与Feedly，可以添加话题，可以在设置中选择是否只接受中文内容（这个不错）。但是最少得选择5个话题，卧槽= =**你的话题没一个我感兴趣的怎么办？**当然这不是问题。除了话题之外，可以自己订阅源并且管理，也类似于上面的Digg。对文章支持“顶”和“踩”两种操作，保存与分享也都支持。UI设计简洁典雅，主色调为蓝白，与蓝猪的UI保持一致。。。。
-<br /><br />
-在iOS端，<br />
+
+在iOS端，
+
 ![picture7](../images/20130727/7.png)
+
 保持了与Web端一致的色调，点击标题会先载入一个预览，而不是直接进入文章,而且会自动匹配标题关键字添加至话题。与Digg一样不支持客户端Feeds添加与管理，那我为毛还要说呢。。看看下面这张图:
-<br /><br />
+
 ![picture8](../images/20130727/8.png)
-<br /><br />
+
 个人试用了iOS上十款左右的RSS阅读器，基本除了美味爱读之外所有的在遇到新浪博客时都会如右图这样无法加载全文并且附有广告。。。说句题外话，新浪真是个无良公司，微博各种广告僵尸，首页进去给你弹个大广告，连RSS这个稍微干净点的地方都不放过，草泥马。
-<br /><br />
+
 我也不订阅新浪博客，别的国内博客也没试过，总之，如果你对RSS订阅需求没有那么强，美味爱读是个不错的选择。
-<br />
+
 **But to me ,美味爱读  扑街！！**
 
 ###Reeder
@@ -125,20 +130,21 @@ Feedly官方在介绍Feedly时用了3个词
 - 支持取消订阅，建立分类，排序，手势等等等等。
 - 内嵌Readability,这个真心是大杀器,你可以在Reeder里直接同步分享到Readability里的文章，管理你的Reading list并且离线阅读文章，并且点击Readability button可以对你订阅的RSS文章进行优化，其实我也没分清楚它俩谁是爹谁是儿子。
 
-接下来放张图:<br />
+接下来放张图:
+
 ![picture9](../images/20130727/9.png)
-<br />
+
 总之，用Reeder阅读会非常舒服，简洁的操作加上丰富的功能可以称的上完美了，怎么用就不细说了，我想只要会算1+1=3的人应该都会用。
 ### 5. 算是后记
 
 *到这里写了6010个character,但是我觉得上面写的99%都是废话，完全可以说一句你去下个Reeder慢慢用就够了，我并不想对RSS APP进行评测也不想介绍用法。就好像高考时老师告诉你外面卖的有王后雄，薛金星，五年高考三年模拟，老师只用告诉你去买其中一本然后慢慢做就成。不管我们买的是王后雄还是薛金星，只要认真做认真琢磨一本高考的成绩都应该能不错的。RSS阅读器也是这样，不管你用的是哪个，反正都能订阅，只要一直看用心看，都能获取到有价值的信息。看知识总比看人人网上傻逼刷屏好吧。*
-<br /><br />
+
 *授人以鱼不如授人以渔，如同第一段所写，我只是想说说如何轻松高效利用好RSS。在以前，当我想看36氪的新闻，我会关注他们的微博，关注微信公共平台，把网站拉到收藏夹，Flipboard里订阅，RSS里订阅，有时候点到腾讯科技里也会看到，网易新闻里也会看到，电脑上看到手机上也看到，可是这样真的有意义吗？寸金寸光阴，大片时间就白白浪费了。*
-<br /><br />
+
 **很多时候真的就是想他妈的把手机砸了电脑砸了回家买块地养猪。**
-<br /><br />
+
 *生活还是得过，对待信息也不能逃避，如果真的以后读PHD了像这屌样不是得被逼死？后来便有意识地去清理精简而又不遗漏，其实这种比较大牌一点的新闻网站如果能用Flipboard之类订阅看就足够了，功能够多阅读体验也足够好，微博微信RSS都可以省掉，具体的后一篇文章会写到。在如今新兴阅读兴起的时代，RSS也的确不太有能力与其竞争。这个浪潮下，我想RSS只用去订阅一些个人博客或者是一些小众网站就足够了，这些网站放到收藏夹里嫌挤，不看又实在可惜，RSS会是很好的一种方式。关于订阅源，可以看看知乎上这个问题：[你必读的 RSS 订阅源有哪些？](http://www.zhihu.com/question/19580096)*
-<br /><br />
+
 *人总是在进步的，对工具的用法也是一样。其实我想说的有很多，但是由于我是个傻逼，很多话说不出来，也许在这几篇文章都写完之后写总结的时候会说的清楚一点吧。好饿啊，我该去吃饭了。*
 
 
