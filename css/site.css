@@ -23,6 +23,13 @@ body {
 	font-weight: normal;
 	min-width: 760px;
 }
+img{
+    display: block;
+    text-align: center;
+    border: none;
+    margin: 1em auto;
+    max-width: 100%;
+}
 
 /*--------------------------------------------------------------
  Navbar
@@ -129,6 +136,7 @@ pre {
 	white-space: -o-pre-wrap;
 	word-wrap: break-word;
 }
+
 
 /*--------------------------------------------------------------
  Container
@@ -284,7 +292,12 @@ article h4 {
 article h5 {
 	padding-top: 0.5em;
 }
-
+article img {
+    display: block;
+    text-align: center;
+    border: none;
+    margin: 1em auto;
+    }
 article .video {
     text-align: center;
 
