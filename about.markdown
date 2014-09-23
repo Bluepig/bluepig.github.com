@@ -7,7 +7,6 @@ title: about
 
 武大本科,ISSer.
 
-立志读PHD。
 
 爱看书，爱折腾。
 
